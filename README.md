@@ -1,5 +1,6 @@
 # PracticoED2
 Practico_1
+Estudiante: Toledo Canna Marco David
 
 Trabajo práctico sobre arboles
 1. Para el árbol AVL implemente el método insertar
